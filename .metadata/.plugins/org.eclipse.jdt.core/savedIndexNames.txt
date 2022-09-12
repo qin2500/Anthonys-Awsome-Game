@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+E:\WorkSpaces\Anthonys-Awsome-Game\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1991655398.index
+3976731072.index
