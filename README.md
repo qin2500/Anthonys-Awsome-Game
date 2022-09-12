@@ -1,5 +1,6 @@
 # Anthonys-Awsome-Game
 This was a game I made in roughly a week as my final project for the Grade 12 computer science class.
+### Run the start.java class to start the game. I never exported the project since our teacher wanted the source code for grading. 
 
 # Skills Demonstraighted 
 - Java (obviously)
